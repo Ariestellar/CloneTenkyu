@@ -169,6 +169,7 @@ MonoBehaviour:
   _playerPrefab: {fileID: 9116999528513444596, guid: 6d79fb6251b7b934a9eed6997120711a,
     type: 3}
   _cameraMovement: {fileID: 963194230}
+  _currentLevels: []
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
